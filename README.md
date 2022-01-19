@@ -1,5 +1,5 @@
 # :two_hearts: Health Care Chat-Bot 🤖
-Project for the 6th Semester Subject -> Machine Learning
+Project for the Future Ready Talent Virtual Internship offered by Microsoft
 
 Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician.
 
@@ -51,9 +51,4 @@ If no errors appeared then the installation is done correctly.
 Then, Go to your directory and run the file `QuestionDiagonosisTkinter.py`
 
 
-## :suspect: Project Members
-
-- [Aryan Veturekar](https://github.com/aryanveturekar)
-- [Himanshu Singh](https://github.com/himanshusiingh)
-- [Danish Shaikh](https://github.com/danishsshaikh)
 
